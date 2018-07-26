@@ -1,4 +1,4 @@
-## 5.Longest Palindromic Substring
+## 5. Longest Palindromic Substring
 方法一：暴力求解O(n<sup>3</sup>) 这部分代码就不放了，没必要
 
 方法二：DP  <font color=red>red</font> 
